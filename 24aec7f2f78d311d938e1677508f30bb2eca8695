@@ -16,6 +16,23 @@
       "message": "Have to update description.",
       "revId": "24aec7f2f78d311d938e1677508f30bb2eca8695",
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e58d1210_f21cecf6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2025-11-28T10:41:32Z",
+      "side": 1,
+      "message": "going to remove the config altogether.",
+      "revId": "24aec7f2f78d311d938e1677508f30bb2eca8695",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
     }
   ],
   "submitRequirementResults": [
