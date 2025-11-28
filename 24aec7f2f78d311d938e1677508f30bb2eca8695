@@ -33,6 +33,24 @@
       "message": "going to remove the config altogether.",
       "revId": "24aec7f2f78d311d938e1677508f30bb2eca8695",
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ef1fd625_d069e29d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2025-11-28T12:19:12Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "83c3c1ae_b7ccdaa1",
+      "revId": "24aec7f2f78d311d938e1677508f30bb2eca8695",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
     }
   ],
   "submitRequirementResults": [
