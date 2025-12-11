@@ -16,6 +16,24 @@
       "message": "Detected as custom ROM in what? Bank applications fail? Please be more specific with your commit description.",
       "revId": "b892d61de4e82bc59ca162c4a7aadab0fbcbf675",
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bc751064_7ba7be6d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000049
+      },
+      "writtenOn": "2025-12-11T17:35:02Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "d1eaef5d_30ebb02d",
+      "revId": "b892d61de4e82bc59ca162c4a7aadab0fbcbf675",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
     }
   ]
 }
