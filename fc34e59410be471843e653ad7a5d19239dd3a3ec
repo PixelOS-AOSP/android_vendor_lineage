@@ -70,6 +70,30 @@
       },
       "revId": "fc34e59410be471843e653ad7a5d19239dd3a3ec",
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d63bfb77_438f3339",
+        "filename": "config/common.mk",
+        "patchSetId": 7
+      },
+      "lineNbr": 57,
+      "author": {
+        "id": 1000049
+      },
+      "writtenOn": "2025-12-12T14:53:41Z",
+      "side": 1,
+      "message": "The apps also detect the \"addon.d\" folder, not just the script.",
+      "parentUuid": "f6a62fac_589117f2",
+      "range": {
+        "startLine": 51,
+        "startChar": 0,
+        "endLine": 57,
+        "endChar": 5
+      },
+      "revId": "fc34e59410be471843e653ad7a5d19239dd3a3ec",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
     }
   ]
 }
