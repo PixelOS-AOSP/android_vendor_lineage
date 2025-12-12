@@ -22,6 +22,30 @@
       },
       "revId": "fc34e59410be471843e653ad7a5d19239dd3a3ec",
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8bbdf6fe_507bd5de",
+        "filename": "config/common.mk",
+        "patchSetId": 7
+      },
+      "lineNbr": 57,
+      "author": {
+        "id": 1000049
+      },
+      "writtenOn": "2025-12-12T14:12:23Z",
+      "side": 1,
+      "message": "In that case, we would also have to rename the folder. // Should I submit another commit with this?",
+      "parentUuid": "77f8ce03_542f9be7",
+      "range": {
+        "startLine": 51,
+        "startChar": 0,
+        "endLine": 57,
+        "endChar": 5
+      },
+      "revId": "fc34e59410be471843e653ad7a5d19239dd3a3ec",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
     }
   ]
 }
