@@ -3,6 +3,29 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "113a0150_2726c7c7",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 7
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2025-12-13T09:49:15Z",
+      "side": 1,
+      "message": "```suggestion\n\nBank applications check for this script to flag devices as insecure. Furthermore, this script seems to be unused in our case.\n\n```",
+      "range": {
+        "startLine": 9,
+        "startChar": 0,
+        "endLine": 10,
+        "endChar": 41
+      },
+      "revId": "fc34e59410be471843e653ad7a5d19239dd3a3ec",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "77f8ce03_542f9be7",
         "filename": "config/common.mk",
         "patchSetId": 7
@@ -86,6 +109,30 @@
       "side": 1,
       "message": "The apps also detect the \"addon.d\" folder, not just the script.",
       "parentUuid": "f6a62fac_589117f2",
+      "range": {
+        "startLine": 51,
+        "startChar": 0,
+        "endLine": 57,
+        "endChar": 5
+      },
+      "revId": "fc34e59410be471843e653ad7a5d19239dd3a3ec",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "dc120a02_3fe20570",
+        "filename": "config/common.mk",
+        "patchSetId": 7
+      },
+      "lineNbr": 57,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2025-12-13T09:49:15Z",
+      "side": 1,
+      "message": "Let it be then, current patchset is fine.",
+      "parentUuid": "d63bfb77_438f3339",
       "range": {
         "startLine": 51,
         "startChar": 0,
