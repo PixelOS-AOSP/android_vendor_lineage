@@ -33,6 +33,24 @@
       "message": "just squash it with the original commit",
       "revId": "a10523591602fab51b8b2e963daf920bc2532b26",
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cfe1f7d9_dd5e3081",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000053
+      },
+      "writtenOn": "2025-12-14T15:38:08Z",
+      "side": 1,
+      "message": "Inferno says to add soong_namespace to lineage charger, much like what he did with bootanimation. Not too sure what exactly you mean though",
+      "parentUuid": "69a14001_4ec9942a",
+      "revId": "a10523591602fab51b8b2e963daf920bc2532b26",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
     }
   ]
 }
