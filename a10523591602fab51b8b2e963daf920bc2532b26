@@ -51,6 +51,24 @@
       "parentUuid": "69a14001_4ec9942a",
       "revId": "a10523591602fab51b8b2e963daf920bc2532b26",
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6583f250_a77fece8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000039
+      },
+      "writtenOn": "2025-12-14T16:21:51Z",
+      "side": 1,
+      "message": "oh by bad! did not see vendor/lineage",
+      "parentUuid": "cfe1f7d9_dd5e3081",
+      "revId": "a10523591602fab51b8b2e963daf920bc2532b26",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
     }
   ]
 }
