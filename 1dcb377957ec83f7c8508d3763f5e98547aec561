@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d13c8453_aa4e9aed",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000053
+      },
+      "writtenOn": "2026-01-04T14:24:47Z",
+      "side": 1,
+      "message": "End user should not even be able to fiddle with rooted debugging if I remember correctly",
+      "revId": "1dcb377957ec83f7c8508d3763f5e98547aec561",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
