@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "05605f06_b9b70ef7",
+        "filename": "config/common.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 83,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2026-01-04T16:18:09Z",
+      "side": 1,
+      "message": "Not a lineage specific init rc file though.",
+      "revId": "ea99dede5c9db3bdf27f13de55fb772bdf6dd263",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
