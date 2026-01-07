@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "24f1bac5_35f8d266",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2026-01-07T17:40:33Z",
+      "side": 1,
+      "message": "Fix authorship, you\u0027re not supposed to co-author yourself for sending the patch.",
+      "revId": "369d586d8557462b7b04367a8f1bb0243ef1403c",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
