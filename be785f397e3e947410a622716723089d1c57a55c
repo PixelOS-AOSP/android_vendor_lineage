@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8cbbdcf1_903dec5d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000018
+      },
+      "writtenOn": "2026-03-08T18:56:18Z",
+      "side": 1,
+      "message": "Change was implemented in GMS repository",
+      "revId": "be785f397e3e947410a622716723089d1c57a55c",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
