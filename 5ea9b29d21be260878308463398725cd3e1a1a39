@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c02e5083_86bd54a6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000053
+      },
+      "writtenOn": "2026-04-26T04:00:44Z",
+      "side": 1,
+      "message": "this should stay disabled until at least A17 I believe",
+      "revId": "5ea9b29d21be260878308463398725cd3e1a1a39",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
