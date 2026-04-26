@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b1e0591d_270c6773",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000053
+      },
+      "writtenOn": "2026-04-26T04:03:44Z",
+      "side": 1,
+      "message": "hmm maybe end user can cope with it, just a few months time\nI\u0027m leaving this here for now",
+      "revId": "ffa9358d0e2dcd2cc775f03de8c8278ff7231195",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
