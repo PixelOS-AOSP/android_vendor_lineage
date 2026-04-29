@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "89f3d0ac_cd6fddce",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2026-04-29T04:15:47Z",
+      "side": 1,
+      "message": "Update commit message and description as well.",
+      "revId": "ebb5641849df8941c151d3d3b5f8e92eeedfef77",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
