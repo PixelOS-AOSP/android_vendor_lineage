@@ -16,6 +16,23 @@
       "message": "hold*",
       "revId": "7c2244dbf2006e4b5012d6476e194ee53a62d1b5",
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4196705b_bb2e4bab",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 8
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2026-04-29T15:40:15Z",
+      "side": 1,
+      "message": "By the time, this gets enabled by default in AOSP. I hope we would have a working launcher with the compatible change.",
+      "revId": "7c2244dbf2006e4b5012d6476e194ee53a62d1b5",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
     }
   ]
 }
