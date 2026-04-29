@@ -34,6 +34,24 @@
       "parentUuid": "8e664fa3_ba076737",
       "revId": "44a5ab303f2563269c5448699db68762c36ab70b",
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c02a9b65_070da167",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2026-04-29T04:10:43Z",
+      "side": 1,
+      "message": "Removing the file seems better then, considering the situation.",
+      "parentUuid": "c27553df_1fbb5ecf",
+      "revId": "44a5ab303f2563269c5448699db68762c36ab70b",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
     }
   ]
 }
