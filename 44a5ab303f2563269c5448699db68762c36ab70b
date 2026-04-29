@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8e664fa3_ba076737",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2026-04-29T04:04:19Z",
+      "side": 1,
+      "message": "Does keeping it enabled introduce visual/UX issues or anything like that?",
+      "revId": "44a5ab303f2563269c5448699db68762c36ab70b",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
