@@ -16,6 +16,24 @@
       "message": "Does keeping it enabled introduce visual/UX issues or anything like that?",
       "revId": "44a5ab303f2563269c5448699db68762c36ab70b",
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c27553df_1fbb5ecf",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000053
+      },
+      "writtenOn": "2026-04-29T04:08:43Z",
+      "side": 1,
+      "message": "Keeping it enabled exposes the flipped 3-button navbar layout which does not work with QPR2 Pixel Launcher, this should be disabled until at least A17",
+      "parentUuid": "8e664fa3_ba076737",
+      "revId": "44a5ab303f2563269c5448699db68762c36ab70b",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
     }
   ]
 }
