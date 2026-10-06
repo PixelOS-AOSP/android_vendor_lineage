@@ -23,6 +23,7 @@ PRODUCT_PACKAGES += \
 ifeq ($(LINEAGE_BUILD),true)
 PRODUCT_PACKAGES += \
     Backgrounds \
+    Gallery2 \
     Glimpse
 endif
 
