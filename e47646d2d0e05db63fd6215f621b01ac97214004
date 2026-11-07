@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f0a667dd_bf52b65b",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2026-11-07T14:26:20Z",
+      "side": 1,
+      "message": "merge again from github",
+      "range": {
+        "startLine": 8,
+        "startChar": 0,
+        "endLine": 8,
+        "endChar": 104
+      },
+      "revId": "e47646d2d0e05db63fd6215f621b01ac97214004",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
